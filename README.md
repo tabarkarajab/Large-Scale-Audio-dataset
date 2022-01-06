@@ -8,3 +8,7 @@ Initially we've installed the bullet cameras integrated with microphone sensors 
 
 ## Conversions of file
 use the videoToWav.py and run it by using python3 videoToWav.py.
+
+## Extract the features from Wav files
+use the csv_creation.py to extract the features of the audio file by using the following command:
+"python3 csv_creation.py"
