@@ -7,4 +7,4 @@ This repository basically represent the  audio dataset for emergency vehicle sir
 Initially we've installed the bullet cameras integrated with microphone sensors at different locations nearest to hospitals and busy traffic street. We measure the distances and calibrated the sound quality by recording those audios by placing our sensors nearest to the sounds and away from it. 
 
 ## Conversions of file
-
+use the videoToWav.py and run it by using python3 videoToWav.py.
