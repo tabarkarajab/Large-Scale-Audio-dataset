@@ -16,7 +16,3 @@ if __name__ == '__main__':
                 status, output = subprocess.getstatusoutput('ffmpeg -i "%s" "%s"' % (path, outputpath))
                 if status:
                     logging.error (output)
-'''
-import moviepy.editor as mp
-my_clip = mp.VideoFileClip(r"videotest.mov")
-my_clip.audio.write_audiofile(r"my_result.mp3")'''
