@@ -12,3 +12,8 @@ use the videoToWav.py and run it by using python3 videoToWav.py.
 ## Extract the features from Wav files
 use the csv_creation.py to extract the features of the audio file by using the following command:
 "python3 csv_creation.py"
+
+
+## Bland Altman Representaion 
+
+use this python Bland_altaman_spectrograms.ipynb for visualizing and verification of the data with another data by means of Standard deviation and Mean Bias.
