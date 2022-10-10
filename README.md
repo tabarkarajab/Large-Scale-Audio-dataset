@@ -1,4 +1,4 @@
-# Large-Scale-Audio-dataset-
+# Large-Scale-Audio-dataset
 This repository basically represent the  audio dataset for emergency vehicle sirens and different road noises found in real-time environment.  This Audio dataset is consist of  two classes namely as emergency ambulance siren and traffic road noises. We have designed our protocol which consist of collection of this dataset through manually by integrating  microphone sensors with the laptop. 
 
 
