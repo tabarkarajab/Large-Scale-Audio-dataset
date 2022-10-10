@@ -24,5 +24,6 @@ use this python Bland_altaman_spectrograms.ipynb for visualizing and verificatio
 ## Published Research Paper
 
 Asif, Muhammad, Muhammad Usaid, Munaf Rashid, Tabarka Rajab, Samreen Hussain, and Sarwar Wasi. "Large-scale audio dataset for emergency vehicle sirens and road noises." Scientific Data 9, no. 1 (2022): 1-9. 
+Link: https://www.nature.com/articles/s41597-022-01727-2
 
 
