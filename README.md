@@ -19,3 +19,10 @@ use the csv_creation.py to extract the features of the audio file by using the f
 use this python Bland_altaman_spectrograms.ipynb for visualizing and verification of the data with another data by means of Standard deviation and Mean Bias.
 
 ![Ambulance_Final_Bland-Altaman_plot_](https://user-images.githubusercontent.com/49900380/154791218-cf10f8b2-97d5-4d75-bfd7-51039fb0ae03.png)
+
+
+## Published Research Paper
+
+Asif, Muhammad, Muhammad Usaid, Munaf Rashid, Tabarka Rajab, Samreen Hussain, and Sarwar Wasi. "Large-scale audio dataset for emergency vehicle sirens and road noises." Scientific Data 9, no. 1 (2022): 1-9. 
+
+
